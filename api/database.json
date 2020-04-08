@@ -23,7 +23,8 @@
       "lastName": "Molly",
       "age": 23,
       "computerId": 2,
-      "departmentId": 3
+      "departmentId": 3,
+      "locationId": 1
     },
     {
       "id": 2,
@@ -31,7 +32,8 @@
       "lastName": "Ittycheriah",
       "age": 42,
       "computerId": 3,
-      "departmentId": 1
+      "departmentId": 1,
+      "locationId": 2
     },
     {
       "id": 3,
@@ -39,7 +41,8 @@
       "lastName": "McJackadoodle",
       "age": 33,
       "computerId": 1,
-      "departmentId": 2
+      "departmentId": 2,
+      "locationId": 3
     }
   ],
   "departments": [
@@ -53,6 +56,20 @@
     },
     {
       "name": "quality assurance",
+      "id": 3
+    }
+  ],
+  "locations": [
+    {
+      "location": "Nashville",
+      "id": 1
+    },
+    {
+      "location": "Atlanta",
+      "id": 2
+    },
+    {
+      "location": "Memphis",
       "id": 3
     }
   ]
