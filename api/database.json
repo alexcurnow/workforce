@@ -1,0 +1,59 @@
+{
+  "computers": [
+    {
+      "id": 1,
+      "model": "Macbook Pro",
+      "year": 2015
+    },
+    {
+      "id": 2,
+      "model": "Microsoft Surface 2",
+      "year": 2019
+    },
+    {
+      "id": 3,
+      "model": "Macbook Air",
+      "year": 2017
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Holly",
+      "lastName": "Molly",
+      "age": 23,
+      "computerId": 2,
+      "departmentId": 3
+    },
+    {
+      "id": 2,
+      "firstName": "Rainu",
+      "lastName": "Ittycheriah",
+      "age": 42,
+      "computerId": 3,
+      "departmentId": 1
+    },
+    {
+      "id": 3,
+      "firstName": "Skipper",
+      "lastName": "McJackadoodle",
+      "age": 33,
+      "computerId": 1,
+      "departmentId": 2
+    }
+  ],
+  "departments": [
+    {
+      "name": "sales",
+      "id": 1
+    },
+    {
+      "name": "accounting",
+      "id": 2
+    },
+    {
+      "name": "quality assurance",
+      "id": 3
+    }
+  ]
+}
