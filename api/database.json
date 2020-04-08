@@ -72,5 +72,63 @@
       "location": "Memphis",
       "id": 3
     }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Juniper Distribution"
+    },
+    {
+      "id": 2,
+      "name": "Lilac Distribution"
+    },
+    {
+      "id": 3,
+      "name": "Daisy Distribution"
+    },
+    {
+      "id": 4,
+      "name": "Rose Distribution"
+    },
+    {
+      "id": 5,
+      "name": "Lavender Distribution"
+    },
+    {
+      "id": 6,
+      "name": "Tulip Distribution"
+    }
+  ],
+  "employeeCustomers": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "employeeId": 2
+    },
+    {
+      "id": 2,
+      "customerId": 2,
+      "employeeId": 2
+    },
+    {
+      "id": 3,
+      "customerId": 3,
+      "employeeId": 1
+    },
+    {
+      "id": 4,
+      "customerId": 4,
+      "employeeId": 1
+    },
+    {
+      "id": 5,
+      "customerId": 5,
+      "employeeId": 3
+    },
+    {
+      "id": 6,
+      "customerId": 6,
+      "employeeId": 3
+    }
   ]
 }
